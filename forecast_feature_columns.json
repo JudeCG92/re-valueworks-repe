@@ -1,0 +1,22 @@
+[
+  "occupancy_pct",
+  "same_property_noi_growth_pct",
+  "noi_margin",
+  "interest_coverage",
+  "leverage_pct",
+  "hold_years",
+  "property_type_Industrial",
+  "property_type_Mixed-Use",
+  "property_type_Multifamily",
+  "property_type_Office",
+  "property_type_Retail",
+  "market_Austin",
+  "market_Chicago",
+  "market_Dallas",
+  "market_Denver",
+  "market_Los Angeles",
+  "market_Miami",
+  "market_New York",
+  "market_Phoenix",
+  "market_Seattle"
+]
